@@ -122,7 +122,7 @@ Practice Topics
 							BMI (Body Mass Index): Program will ask user to enter their mass (kilogram) and their height (meters). 
 							Calculate their BMI and then print the appropriate message based on the provided values: 
 								All numbers taken as doubles
-								
+								                             // height * height
 								—> BMI Formula: BMI = mass / height^2
 								—> Values:
 									

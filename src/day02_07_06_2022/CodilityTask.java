@@ -29,9 +29,9 @@ public class CodilityTask {
 
 
          */
+ //break till 4:10 pm est
 
-
-        int number=6;
+        int number=30;
 
         String result="";
 
