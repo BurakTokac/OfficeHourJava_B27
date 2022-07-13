@@ -36,6 +36,7 @@ public class EstimatedTimeCalculator {
    										"The Estimated Time Of Arrival is 6.0 hours from San Antonio to Dallas "
 
          */
+        //come back 4:12
 
         int maxSpeed = 80;
         int minSpeed = 40;
