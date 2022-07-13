@@ -8,7 +8,7 @@ public class SimpleCalculatorSwitch {
 
                    Create simple calculator
                     case 1 +
-                    case 2 *
+                    case 2 * &
                     case 3 -
                     case 4 /
                     default:
@@ -27,6 +27,7 @@ public class SimpleCalculatorSwitch {
             case '-':
                 result = num1 - num2;
                 break;
+            case '&':
             case '*':
                 result = num1 * num2;
                 break;
