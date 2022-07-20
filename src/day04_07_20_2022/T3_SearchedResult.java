@@ -27,6 +27,5 @@ public class T3_SearchedResult {
         System.out.println("Result number is " + resultNumber);
         System.out.println("Response time is " + responseTime);
 
-
     }
 }
