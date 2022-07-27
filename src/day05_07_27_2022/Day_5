@@ -40,10 +40,10 @@ Topic : Arrays
          		 dish washer
 
 
-	Task 3 : Write a program that accepts String array.Count how many names have the same first and last letter
+	Task 3 : Write a program that accepts String array.
+	Count how many names have the same first and last letter
 
 				Input : "Anna", "Mike", "Aliya", "Donald", "Muhtar", "Remus", "Mehmet","Asya"
-
 				Output : 4 
     
     Task 4 :  For Each - Nested For 
