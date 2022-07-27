@@ -18,6 +18,7 @@ public class CountWordsFirstAndSecondLetterAreSame {
             String first = name.charAt(0)+""; //if we want to use string method we need change data type char to String
 
             //I need to get last character
+                          // it returns char          //if we add "" in order to make it String
             String last = name.charAt(name.length() - 1)+"";
 
             //if the characters are same count it
