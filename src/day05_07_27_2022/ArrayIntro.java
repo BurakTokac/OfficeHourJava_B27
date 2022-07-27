@@ -62,7 +62,7 @@ public class ArrayIntro {
         String sentence = "I like playing Football games";
         String[] words = sentence.split(" ");
         String sentence1 = "I-like-playing-Football-games";
-        String[] words1 = sentence.split("-");
+        String[] words1 = sentence1.split("-");
 
         String str = "abcbabcbdbd";
         //a c a c d d
