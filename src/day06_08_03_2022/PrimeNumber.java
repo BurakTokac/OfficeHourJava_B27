@@ -12,6 +12,7 @@ public class PrimeNumber {
         int num=5;
         boolean isPrimeNumber=isPrime(num);
 
+        // how we can find the prime numbers from 1 to 100
         for (int i = 1; i <=100 ; i++) {
             if (isPrime(i)){
                 System.out.println(i);
