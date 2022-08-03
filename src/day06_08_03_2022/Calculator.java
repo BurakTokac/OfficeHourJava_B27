@@ -10,10 +10,10 @@ public class Calculator {
         System.out.println("second number");
         int num2 = scanner.nextInt();
 
-        add(num1, num2);
-        subtract(num1, num2);
-        divide(num1, num2);
-        multiply(num1, num2);
+        System.out.println("add(num1, num2) = " + add(num1, num2));
+        System.out.println("subtract(num1, num2) = " + subtract(num1, num2));
+        System.out.println("divide(num1, num2) = " + divide(num1, num2));
+        System.out.println("multiply(num1, num2) = " + multiply(num1, num2));
 
 
     }
