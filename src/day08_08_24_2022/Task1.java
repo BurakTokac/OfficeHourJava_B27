@@ -28,7 +28,7 @@ public class Task1 {
         ArrayList<String> empty = new ArrayList<>();
         for (String s : list) {
             //check words if its length smaller than or equal 4
-          boolean result=  checkWordLength(s);
+            boolean result=  checkWordLength(s);
             //put the word another empty list if it is true
 
             if (result){
