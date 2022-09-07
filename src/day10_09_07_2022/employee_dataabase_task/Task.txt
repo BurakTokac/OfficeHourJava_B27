@@ -1,0 +1,14 @@
+1-We will create an employee class //student
+it will have only
+   -name
+   -id
+2- We will create one class which is EmployeeDatabase //StudentDatabase
+
+-we will create one list we will keep employees in that list //getAllStudents()
+- we will add employee to database (create an addEmployee() method) //getStudentNameContains(char ch)
+- we will delete the employee from database by using id              //getStudentsIdIsBiggerThan(long id)
+- we will create a method for get the all employees                   //deleteStudent(loong id)
+- we will get the employee from the database which has same id from database //deleteStudentComtainsName(char ch)
+
+3 - we will test it if it is working or not
+
