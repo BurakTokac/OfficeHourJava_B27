@@ -1,4 +1,4 @@
-package day_11_09_21_2022;
+package day_11_09_21_2022.objects;
 
 public class Employee {
 
