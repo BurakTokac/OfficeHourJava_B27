@@ -11,8 +11,8 @@ public interface DatabaseService {
     void deleteEmployee(Long id);  //second rule btween classes
     Employee getEmployee(Long id); //third
     List<Employee> getEmployees();
-    List<String> getAllNames();
-    List<String> getUniqueNames();
+    List<String> getAllEmployeesNames();
+    List<String> getUniqueEmployeeNames();
 
 
 
